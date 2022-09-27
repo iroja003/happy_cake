@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#  Desafío - Happy Cake
+En este desafío validaremos nuestros conocimientos de React Router. Lee todo el
+documento antes de comenzar el desarrollo individual para asegurarte de tener el
+máximo de puntaje y enfocar bien los esfuerzos.
+
+# Descripción
+La empresa Happy Cake SPA se dedica a cocinar pasteles personalizados y ha decidido
+financiar la creación de una página web en donde le permita a los clientes realizar
+cotizaciones y ofrecer un formulario de contacto.
+En este desafío deberás crear una aplicación React y utilizar React Router para ofrecer la navegación de 2 vistas basada en rutas: Home y Contacto
+#
